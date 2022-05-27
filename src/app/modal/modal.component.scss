@@ -1,0 +1,15 @@
+// :host {
+//   height: 100%;
+//   width: 100%;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+
+//   user-select: none;
+//   -moz-user-select: none;
+//   -webkit-user-select: none;
+
+//   --viewer-img-height: calc(85vh);
+//   --viewer-img-width: calc(85vw);
+//   --viewer-inner-height: calc(min(var(--viewer-img-height) - 130px, calc(var(--viewer-img-width) / 0.70874)));
+// }
